@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk
+END
+Facebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/Facebook.h
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/JSON.h
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/SBJsonBase.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/SBJsonParser.h
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/SBJsonWriter.h
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/SBJSON.h
+END
+FBLoginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/FBLoginDialog.h
+END
+FBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/FBRequest.h
+END
+FBConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/FBConnect.h
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/NSString+SBJSON.h
+END
+libfacebook_ios_sdk.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/libfacebook_ios_sdk.a
+END
+FBFrictionlessRequestSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/FBFrictionlessRequestSettings.h
+END
+FBDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3995/trunk/WordPress/Vendor/facebook-ios-sdk/FBDialog.h
+END

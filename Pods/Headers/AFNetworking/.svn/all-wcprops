@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking
+END
+AFJSONRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFJSONRequestOperation.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFNetworking.h
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
+END
+AFPropertyListRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFPropertyListRequestOperation.h
+END
+AFXMLRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFXMLRequestOperation.h
+END
+AFImageRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFImageRequestOperation.h
+END
+AFHTTPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFHTTPClient.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/3633/trunk/Pods/Headers/AFNetworking/UIImageView+AFNetworking.h
+END

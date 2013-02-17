@@ -1,0 +1,41 @@
+//
+// Prefix header for all source files of the 'WordPress' target in the 'WordPress' project
+//
+
+#ifdef __OBJC__
+	// Core Frameworks
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+	#import <CoreLocation/CoreLocation.h>
+	#import <CoreData/CoreData.h>
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+
+	// 3rd Party
+    #import "WPAFNetworking.h"
+	#import "XMLRPCRequest.h"
+	#import "XMLRPCResponse.h"
+	#import "XMLRPCConnection.h"
+    #import "NSObject+BlockObservation.h"
+
+	// Project-specific
+    #import "Constants.h"
+    #import "NSString+Util.h"
+	#import "FileLogger.h"
+    #import "WPError.h"
+    #import "UIColor+Helpers.h"
+    #import "PanelNavigationController.h"
+
+#ifdef DEBUG
+#define _AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES_
+#else
+#endif
+
+#ifndef IS_IPAD
+#define IS_IPAD   ([UIDevice currentDevice].userInterfaceIdiom == UIUserInterfaceIdiomPad)
+#endif
+#ifndef IS_IPHONE
+#define IS_IPHONE   (!IS_IPAD)
+#endif
+
+#endif

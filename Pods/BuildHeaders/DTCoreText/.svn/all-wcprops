@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText
+END
+DTAttributedTextContentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTAttributedTextContentView.h
+END
+NSScanner+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSScanner+HTML.h
+END
+DTCoreTextLayoutLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextLayoutLine.h
+END
+NSString+Paragraphs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSString+Paragraphs.h
+END
+DTCoreTextLayoutFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextLayoutFrame.h
+END
+DTAttributedTextCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTAttributedTextCell.h
+END
+DTHTMLElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTHTMLElement.h
+END
+DTColor+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTColor+HTML.h
+END
+NSString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSString+HTML.h
+END
+DTHTMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTHTMLParser.h
+END
+NSMutableAttributedString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSMutableAttributedString+HTML.h
+END
+CGUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/CGUtils.h
+END
+DTCoreTextGlyphRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextGlyphRun.h
+END
+UIDevice+DTSimpleVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/UIDevice+DTSimpleVersion.h
+END
+DTLinkButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTLinkButton.h
+END
+NSData+DTBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSData+DTBase64.h
+END
+DTCoreTextConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextConstants.h
+END
+DTWebVideoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTWebVideoView.h
+END
+DTCSSStylesheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCSSStylesheet.h
+END
+NSString+CSS.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSString+CSS.h
+END
+DTCoreTextParagraphStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextParagraphStyle.h
+END
+DTCSSListStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCSSListStyle.h
+END
+NSAttributedString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSAttributedString+HTML.h
+END
+DTAttributedTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTAttributedTextView.h
+END
+DTCompatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCompatibility.h
+END
+NSAttributedStringRunDelegates.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSAttributedStringRunDelegates.h
+END
+DTLazyImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTLazyImageView.h
+END
+NSCharacterSet+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSCharacterSet+HTML.h
+END
+NSAttributedString+SmallCaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSAttributedString+SmallCaps.h
+END
+DTImage+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTImage+HTML.h
+END
+DTCoreTextLayouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextLayouter.h
+END
+DTCoreTextFontDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextFontDescriptor.h
+END
+NSAttributedString+DTCoreText.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSAttributedString+DTCoreText.h
+END
+NSMutableString+HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSMutableString+HTML.h
+END
+DTHTMLAttributedStringBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTHTMLAttributedStringBuilder.h
+END
+NSString+UTF8Cleaner.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/NSString+UTF8Cleaner.h
+END
+DTTextAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTTextAttachment.h
+END
+DTCoreText.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreText.h
+END
+DTTextBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTTextBlock.h
+END
+DTCoreTextFontCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3855/trunk/Pods/BuildHeaders/DTCoreText/DTCoreTextFontCollection.h
+END
